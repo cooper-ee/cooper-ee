@@ -2,8 +2,6 @@
 
 ### Master of Computer Science in pursuit of technology
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cooper-ee&label=Profile views&color=0e75b6&style=flat" alt="cooper-ee" /> </p>
-
 - 🔭 I'm currently working on **Collaborative Optimization of Vehicular edge Computing Task offloading and Cache Based on Deep Reinforcement Learning**
 
 - 🌱 I'm currently learning **Agent development, large language models, and AI infrastructure**
