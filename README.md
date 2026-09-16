@@ -2,8 +2,6 @@
 
 ### A master's student in the AI field of computer science
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cooper-ee&label=Profile views&color=0e75b6&style=flat" alt="cooper-ee" /> </p>
-
 - 🔭 I'm currently working on **Development of AI Agent Applications**
 
 - 🌱 I'm currently learning **Agent Prompt,LangChain,LLM**
