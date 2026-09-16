@@ -134,59 +134,6 @@ AI Agent 部署、性能分析以及运行效率优化。
 
 ---
 
-## 📊 GitHub 活跃度 | GitHub Activity
-
-<div align="center">
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="95%" alt="QinYi's GitHub Profile Summary"/>
-
-</div>
-
-<br>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/cooper-ee/cooper-ee/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/cooper-ee/cooper-ee/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/cooper-ee/cooper-ee/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
-## 🌐 关于我 | Find Me
-
-<div align="center">
-
-<a href="https://github.com/cooper-ee">
-  <img src="https://img.shields.io/badge/GitHub-cooper--ee-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://blog.csdn.net/qq_31855775">
-  <img src="https://img.shields.io/badge/CSDN-QinYi-FC5531?style=for-the-badge&logo=csdn&logoColor=white"/>
-</a>
-
-<a href="mailto:yqin_2003@163.com">
-  <img src="https://img.shields.io/badge/Email-yqin__2003%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ Keep learning, keep building.
