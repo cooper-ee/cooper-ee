@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cooper-ee&label=Profile views&color=0e75b6&style=flat" alt="cooper-ee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cooper-ee" alt="cooper-ee" /></a> </p>
-
 - 🔭 I'm currently working on **Development of AI Agent Applications**
 
 - 🌱 I'm currently learning **Agent Prompt,LangChain,LLM**
