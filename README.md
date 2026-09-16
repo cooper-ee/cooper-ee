@@ -1,73 +1,197 @@
-## Hello, I'm Cooper 👋
+<div align="center">
 
-[![GitHub Badge](https://img.shields.io/badge/-cooper--ee-181717?style=flat&logo=github&logoColor=white)](https://github.com/cooper-ee)
-[![Mail Badge](https://img.shields.io/badge/-yqin_2003@163.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:yqin_2003@163.com)
+# Hi 👋, I'm QinYi
 
----
+### 🎓 CS Master's Student @ GUET · 🤖 AI Agent & LLM Enthusiast
 
-<img align="right" alt="Cooper's GitHub Avatar" src="https://github.com/cooper-ee.png" width="180" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=AI+Agent+Application+Development;Large+Language+Models+%26+LangChain;Agent+Deployment+Optimization;LLM+Inference+Acceleration;Keep+Learning%2C+Keep+Building.)](https://git.io/typing-svg)
 
-### 👨‍💻 About Me
-
-- 🎓 A Master's student in **Computer Science**, focusing on **Artificial Intelligence**
-- 🔭 Currently working on **AI Agent Application Development**
-- 🌱 Currently learning **Prompt Engineering, LangChain, and Large Language Models (LLMs)**
-- 👯 Looking to collaborate on **Agent Deployment Optimization, Inference Acceleration, and Parameter Tuning**
-- 🤝 Exploring how to build **efficient, reliable, and practical AI Agent applications**
-- 💬 Ask me about **AI Agents, LLMs, and Agent Application Development**
-- 📫 Reach me at **[yqin_2003@163.com](mailto:yqin_2003@163.com)**
-
-<br>
-
-### 🛠 Tech Stack
-
-- 🤖 **AI / Agent** &#160;
-![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=EE4C2C)
-
-- 💻 **Programming** &#160;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-
-- 🔧 **Tools** &#160;
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-### 🔬 Research & Interests
-
-- 🤖 **AI Agent Application Development**
-- 🧠 **Large Language Models**
-- ⚙️ **Agent Deployment Optimization**
-- 🚀 **LLM Inference Acceleration**
-- 🔧 **Model & Agent Parameter Tuning**
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cooper-ee&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooper-ee&layout=compact" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cooper-ee" alt="GitHub Streak" />
-</p>
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/cooper-ee" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+<p>
+  <a href="https://github.com/cooper-ee">
+    <img src="https://img.shields.io/badge/GitHub-cooper--ee-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
+  <a href="https://blog.csdn.net/qq_31855775?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/CSDN-QinYi-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
   <a href="mailto:yqin_2003@163.com">
-    <img src="https://img.shields.io/badge/Email-yqin_2003%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-yqin__2003%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+</div>
+
+---
+
+<img align="right" src="https://github.com/cooper-ee.png" width="180" alt="QinYi's GitHub Avatar"/>
+
+## 👨‍💻 关于我 | About Me
+
+* 🎓 **GUET** 计算机科学与技术专业硕士研究生
+  Master's student in **Computer Science and Technology**
+
+* 🔭 Currently working on **AI Agent Application Development**
+
+* 🌱 Currently learning **Prompt Engineering, LangChain and Large Language Models**
+
+* 🧠 Interested in **LLMs, AI Agents and Intelligent Applications**
+
+* ⚙️ Focusing on **Agent Deployment Optimization & LLM Inference Acceleration**
+
+* 🔧 Exploring **Model / Agent Parameter Tuning**
+
+* 💬 Ask me about **Python / PyTorch / LangChain / AI Agents / LLMs**
+
+* 📫 Contact: **[yqin_2003@163.com](mailto:yqin_2003@163.com)**
+
+<br clear="both"/>
+
+---
+
+## 🔬 研究方向 | Research Interests
+
+<p align="center">
+
+![AI Agent](https://img.shields.io/badge/AI_Agent-333333?style=for-the-badge\&logo=openai\&logoColor=white)
+![LLM](https://img.shields.io/badge/Large_Language_Models-333333?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-333333?style=for-the-badge\&logo=langchain\&logoColor=white)
+![Inference](https://img.shields.io/badge/Inference_Acceleration-333333?style=for-the-badge\&logo=nvidia\&logoColor=76B900)
+![Deployment](https://img.shields.io/badge/Agent_Deployment-333333?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+
+</p>
+
+* 🤖 **AI Agent Application Development**
+  AI Agent 应用开发
+
+* 🧠 **Large Language Models**
+  大语言模型相关技术
+
+* ⚙️ **Agent Deployment Optimization**
+  Agent 部署与性能优化
+
+* 🚀 **LLM Inference Acceleration**
+  大语言模型推理加速
+
+* 🔧 **Model & Agent Parameter Tuning**
+  模型及 Agent 参数调优
+
+---
+
+## 🛠 技术栈 | Tech Stack
+
+### 🤖 AI / Deep Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+### 🔧 Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,md" />
+
 </p>
 
 ---
 
-> **Keep learning, keep building, and make AI Agents more efficient and practical. 🚀**
+## 🚀 开源项目 | Featured Projects
 
-⭐️ From [Cooper](https://github.com/cooper-ee)
+> 📌 持续更新中 / More projects coming soon...
+
+<!--
+
+当你有正式项目之后，将下面内容取消注释并替换仓库地址。
+
+### 🤖 AI Agent Application
+
+[![Repo](https://img.shields.io/badge/GitHub-AI_Agent_Project-181717?style=for-the-badge&logo=github)](https://github.com/cooper-ee/your-project)
+
+基于大语言模型的 AI Agent 应用，探索 Agent 工作流、工具调用与智能任务执行。
+
+---
+
+### 🚀 LLM Inference Optimization
+
+[![Repo](https://img.shields.io/badge/GitHub-LLM_Inference_Optimization-181717?style=for-the-badge&logo=github)](https://github.com/cooper-ee/your-project)
+
+面向大语言模型推理过程的性能优化与加速。
+
+---
+
+### ⚙️ Agent Deployment
+
+[![Repo](https://img.shields.io/badge/GitHub-Agent_Deployment-181717?style=for-the-badge&logo=github)](https://github.com/cooper-ee/your-project)
+
+研究 AI Agent 的部署、性能分析以及运行效率优化。
+
+-->
+
+---
+
+## 📊 GitHub 活跃度 | GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cooper-ee&hide_border=true" alt="QinYi's GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cooper-ee&theme=github-compact&hide_border=true&area=true" width="95%" alt="QinYi's Contribution Graph"/>
+
+</div>
+
+<!--
+Snake Contribution Graph
+
+需要配置 GitHub Actions 后再启用：
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cooper-ee/cooper-ee/output/github-contribution-grid-snake.svg" />
+</p>
+-->
+
+---
+
+## 🌐 关于我 | Find Me
+
+<p align="center">
+
+<a href="https://github.com/cooper-ee">
+  <img src="https://img.shields.io/badge/GitHub-cooper--ee-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://blog.csdn.net/qq_31855775?spm=1000.2115.3001.5343">
+  <img src="https://img.shields.io/badge/CSDN-QinYi-FC5531?style=for-the-badge&logo=csdn&logoColor=white"/>
+</a>
+
+<a href="mailto:yqin_2003@163.com">
+  <img src="https://img.shields.io/badge/Email-yqin__2003%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Keep learning, keep building.
+
+**保持学习，持续实践。**
+
+⭐ From [QinYi](https://github.com/cooper-ee)
+
+</div>
