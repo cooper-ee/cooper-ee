@@ -1,4 +1,4 @@
-# Hi 👋, I'm Cooper
+## Hi 👋, I'm Cooper
 
 ### A master's student in the AI field of computer science
 
