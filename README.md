@@ -4,6 +4,8 @@
 
 # Hi 👋, I'm QinYi
 
+<img src="https://komarev.com/ghpvc/?username=cooper-ee&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
 ### 🎓 Master's Student @ GUET · 🤖 AI Agent & LLM
 
 **Keep Learning · Keep Building · Keep Exploring**
@@ -26,26 +28,28 @@
 
 ## 👨‍💻 关于我 | About Me
 
+### 🇨🇳 中文
+
 * 🎓 **GUET** 计算机科学与技术专业硕士研究生
-  Master's student in **Computer Science and Technology**
+* 🔭 目前主要关注 **AI Agent 应用开发**
+* 🌱 正在学习 **Prompt Engineering、LangChain 与大语言模型（LLMs）**
+* 🤖 关注 **AI Agent、大语言模型与智能应用**
+* ⚙️ 探索 **Agent 部署优化与大模型推理加速**
+* 🔧 关注 **模型与 Agent 参数调优**
+* 💬 可以和我交流 **Python / PyTorch / LangChain / AI Agent / LLM**
+* 📫 联系方式：**[yqin_2003@163.com](mailto:yqin_2003@163.com)**
 
+<br>
+
+### 🌐 English
+
+* 🎓 Master's student in **Computer Science and Technology at GUET**
 * 🔭 Currently working on **AI Agent Application Development**
-  目前主要关注 **AI Agent 应用开发**
-
 * 🌱 Currently learning **Prompt Engineering, LangChain and Large Language Models (LLMs)**
-  正在学习 **Prompt Engineering、LangChain 与大语言模型**
-
 * 🤖 Interested in **AI Agents, LLMs and Intelligent Applications**
-  关注 **AI Agent、大语言模型与智能应用**
-
 * ⚙️ Exploring **Agent Deployment Optimization & LLM Inference Acceleration**
-  探索 **Agent 部署优化与大模型推理加速**
-
-* 🔧 Interested in **Model / Agent Parameter Tuning**
-  关注 **模型与 Agent 参数调优**
-
+* 🔧 Interested in **Model & Agent Parameter Tuning**
 * 💬 Ask me about **Python / PyTorch / LangChain / AI Agents / LLMs**
-
 * 📫 Contact: **[yqin_2003@163.com](mailto:yqin_2003@163.com)**
 
 ---
@@ -106,7 +110,7 @@
 
 <!--
 
-以后有正式项目后，把下面内容取消注释并修改仓库地址：
+以后有正式项目后，把下面内容取消注释并修改仓库地址。
 
 ### 🤖 AI Agent Application
 
